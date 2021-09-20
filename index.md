@@ -51,7 +51,7 @@
                 
     <div class="row-fluid">
     	<div class="span5">
-        	<img src="./Tianrui_files/Picture1.jpg" alt="Tianrui Liu"> 
+        	<img src="./Tianrui_files/tianrui_web.jpg" alt="Tianrui Liu"> 
         </div>
 	<div class="span7">
           <address>
@@ -155,35 +155,7 @@
               <h1>Conference Paper</h1>
             </div>
 
-	<div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">1. <strong>Jun-Jie Huang</strong>, and Pier Luigi Dragotti, "<strong>LINN: Lifting Inspired Invertible Neural Networks for Image Denoising</strong>," Accepted by European Signal Processing Conference (EUSIPCO) 2021. <p> <strong> &nbsp;&nbsp; <span><a href="https://arxiv.org/pdf/2105.03303v1.pdf">PDF</a></span></strong><strong><a href="Slides/LINN_EUSIPCO2021.pdf"> Slides</a></strong><strong><a href="BibTeX/EUSIPCO_LINN_2021.txt"> BibTeX</a></strong></p>
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
 
-
-
-	<div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">2. Wei Pu, <strong>Jun-Jie Huang</strong>, Barak Sober, Nathan Daly, Catherine Higgitt, Pier Luigi Dragotti, Ingrid Daubechies, Miguel Rodrigues, "<strong>A Learning Based Approach to Separate Mixed X-Ray Images Associated with Artwork with Concealed Designs</strong>," Accepted by European Signal Processing Conference (EUSIPCO) 2021. 
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
-
-
-	<div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">3. Vincent C. H. Leung, <strong>Jun-Jie Huang</strong>, Yonina C. Eldar, Pier Luigi Dragotti, "<strong>Reconstruction of FRI Signals using Autoencoder with Fixed Decoder</strong>," Accepted by European Signal Processing Conference (EUSIPCO) 2021. 
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
 	
 	<div class="row-fluid" style="text-align:justify">      
             	<div class="span12">
@@ -194,69 +166,6 @@
             	</div>
             </div>
 
-	<div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">5. Vincent Chi Hang Leung, <strong>Jun-Jie Huang</strong>, and Pier Luigi Dragotti, "<strong>Reconstruction of FRI Signals using Deep Neural Network Approaches</strong>," Accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’2020). (Oral)
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
-
-	<div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">6. Su Yan, <strong>Jun-Jie Huang</strong>, Nathan Daly, Catherine Higgitt, and Pier Luigi Dragotti, "<strong>Revealing Hidden Drawings in Leonardo's 'The Virgin of the Rocks' from MACRO X-RAY Fluorescence Scanning Data through Element Line Localisation</strong>," Accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’2020). (Oral)
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
-
-
-	    <div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">7. <strong>Jun-Jie Huang</strong>, and Pier Luigi Dragotti, "<strong>A Deep Analysis Dictionary Model</strong>," Proceedings, The Signal Processing with Adaptive Sparse Structured Representations workshop (SPARS’2019).<p> <strong> &nbsp;&nbsp; <span><a href="Preprint/SPARS_DDM_revised.pdf">PDF</a></span></strong><strong><a href="BibTeX/SPARS_DDM_2019.txt"> BibTeX</a></strong></p>
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
-
-		<div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">8. Vincent Chi Hang Leung, <strong>Jun-Jie Huang</strong>, and Pier Luigi Dragotti, "<strong>Reconstruction of FRI Signals using Deep Neural Networks</strong>," Proceedings, The Signal Processing with Adaptive Sparse Structured Representations workshop (SPARS’2019).<p> <strong> &nbsp;&nbsp; <span><a href="https://arxiv.org/pdf/1905.11935.pdf">PDF</a></span></strong><strong><a href="BibTeX/SPARS_FRINet_2019.txt"> BibTeX</a></strong></p>
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
-
-	    <div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">9. <strong>Jun-Jie Huang</strong>, and Pier Luigi Dragotti, "<strong>A Deep Dictionary Model to Preserve and Disentangle Key Features in A signal</strong>," Proceedings, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’2019).<p> <strong> &nbsp;&nbsp; <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682849">PDF</a></span></strong><strong><a href="BibTeX/ICASSP_IPAD_2019.txt"> BibTeX</a></strong> <strong><a href="Preprint/ICASSP19_poster.pdf"> Poster </a></strong> </p>
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
-
-	    <div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">10. <strong>Jun-Jie Huang</strong>, and Pier Luigi Dragotti, "<strong>A Deep Dictionary Model for Image Super-Resolution</strong>," Proceedings, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’2018).  (oral presentation @ Special Session on Learning Signal Representation using Deep Learning).<p> <strong> &nbsp;&nbsp; <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461651">PDF</a></span></strong><strong><a href="BibTeX/ICASSP_DDM_2018.txt"> BibTeX</a></strong></p>
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
-
-	    <div class="row-fluid" style="text-align:justify">      
-            	<div class="span12">
-                	<div class="accordion" id="accordionSRHRF+">     
-                    	<div class="accordion-heading">11. Xin Deng, <strong>Jun-Jie Huang</strong>, Mengying Liu, and Pier Luigi Dragotti, "<strong>U-FRESH: An FRI-based Single Image Super Resolution Algorithm and An Application in Image Compression</strong>," Proceedings, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’2018).<p> <strong> &nbsp;&nbsp; <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461383">PDF</a></span></strong><strong><a href="BibTeX/ICASSP_UFRESH_2018.txt"> BibTeX</a></strong></p>
-                    	</div>
-                	</div> 
-            	</div>
-            </div>
 
 	    <div class="row-fluid" style="text-align:justify">      
             	<div class="span12">
@@ -276,54 +185,8 @@
                 	</div> 
             	</div>
             </div>
-
-
-	    <div class="row-fluid" style="text-align:justify">     
-            	<div class="span12">
-                	<div class="accordion" id="accordionProSparseExt"> 
-                    	<div class="accordion-heading">14. <strong>Jun-Jie Huang</strong> and Pier Luigi Dragotti, "<strong>ProSparse Extension: Prony's Based Sparse Pattern Recovery with Extended Dictionaries</strong>," Proceedings, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’2017), 5-9 March 2017, New Orleans, USA. (Oral)<p> <strong> &nbsp;&nbsp; <span><a ref="http://www.commsp.ee.ic.ac.uk/~pld/publications/HuangD_icassp17.pdf">PDF</a></span></strong><strong><a href="BibTeX/ICASSP_2017.txt"> BibTeX</a></strong></p>
-                        </div>
-                	</div> 
-            	</div>
-            </div>
- 
-            <div class="row-fluid" style="text-align:justify">
-            	<div class="span12">
-                	<div class="accordion" id="accordionFIDT"> 
-                    	<div class="accordion-heading">15. <strong>Jun-Jie Huang</strong> and Wan-Chi Siu, "<strong>Fast Image Interpolation with Decision Tree</strong>," Proceedings, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’2015), 19-24 April 2015, Brisbane, Australia. (Oral) <p> <strong> &nbsp;&nbsp; <span><a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7178164">PDF</a></span></strong><strong><a href="BibTeX/ICASSP_2015.txt"> BibTeX</a></strong></p>
-                        </div>
-                    </div>           
-            	</div>
-            </div>
-                            
+    
                     
-            <div class="row-fluid" style="text-align:justify">
-            	<div class="span12">
-                 	<div class="accordion" id="accordionSRRF">
-                    	<div class="accordion-heading">16. <strong>Jun-Jie Huang</strong> and Wan-Chi Siu, "<strong>Practical Applications of Random Forests for Super-Resolution Imaging</strong>," Proceedings, IEEE International Symposium on Circuits and Systems, (ISCAS’2015), 24-27 May 2015, Lisbon, Portugal. <p> <strong> &nbsp; <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7169108"> <span>PDF</span></a></strong><strong></a><a href="BibTeX/ISCAS_2015.txt"> BibTeX</a></strong></p>
-                        </div>
-                	</div>   
-             	</div>
-             </div>
-                   
-                    
-             <div class="row-fluid" style="text-align:justify">
-             	<div class="span12">
-                	<div class="accordion" id="accordionLCLBP"
-                		<div class="accordion-heading">17. <strong>Jun-Jie Huang</strong> and Wan-Chi Siu, "<strong>Large Colour LBP in Generalized Hough Transform</strong>," Proceedings, IEEE International Conference on Image Processing, (ICIP’2014), 27-30, October 2014, Paris, France.<p> <strong> &nbsp;&nbsp; <span><a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7025317">PDF</a></span></strong><strong></a><a href="BibTeX/ICIP_2014.txt"> BibTeX</a></strong></p>
-                        </div>
-                	</div>     
-             	</div>
-             </div>
-
-             <div class="row-fluid" style="text-align:justify">
-                <div class="span12">
-                	<div class="accordion" id="accordionDCTDMMSE"> 
-                    	<div class="accordion-heading">18. <strong>Jun-Jie Huang</strong>, Kwok-Wai Hung and Wan-Chi Siu, "<strong>Hybrid DCT-Wiener-Based Interpolation using Dual MMSE Estimator Schem,e</strong>," Proceedings, 19th International Conference on Digital Signal Processing, (19th DSP2014) 20-23 August 2014, Hong Kong. (Oral) <p> <strong> &nbsp; <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6900764"> <span>PDF</span></a></strong><strong></a><a href="BibTeX/DSP_2014.txt"> BibTeX</a></strong></p>
-                        </div>
-                	</div>     
-              	</div>
-	    </div>
 </section>
                
                 <!-- Footer ================================================== -->
