@@ -10,11 +10,11 @@
 <meta name="keywords" content="Tian-rui Liu, Tianrui Liu, T. Liu, T.R. Liu, image super-resolution, deep learning, pedestrain detection, imperial">
 
 <!-- Le styles -->
-<link href="./Jun-Jie Huang_files/bootstrap.css" rel="stylesheet">
-<link href="./Jun-Jie Huang_files/bootstrap-responsive.css" rel="stylesheet">
-<link href="./Jun-Jie Huang_files/docs.css" rel="stylesheet">
-<link href="./Jun-Jie Huang_files/prettify.css" rel="stylesheet">
-<link href="./Jun-Jie Huang_files/cavan.css" rel="stylesheet">
+<link href="./Tianrui_files/bootstrap.css" rel="stylesheet">
+<link href="./Tianrui_files/bootstrap-responsive.css" rel="stylesheet">
+<link href="./Tianrui_files/docs.css" rel="stylesheet">
+<link href="./Tianrui_files/prettify.css" rel="stylesheet">
+<link href="./Tianrui_files/cavan.css" rel="stylesheet">
 
 <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -22,7 +22,7 @@
       <![endif]-->
         
 
-<script type="text/javascript" async="" src="./Jun-Jie Huang_files/ga.js.download"></script><script type="text/javascript" async="" src="./Jun-Jie Huang_files/ga.js(1).download"></script><script type="text/javascript" async="" src="./Jun-Jie Huang_files/ga.js(2).download"></script><script type="text/javascript" async="" src="./Jun-Jie Huang_files/ga.js(3).download"></script><script type="text/javascript" async="" src="./Jun-Jie Huang_files/ga(1).js.download"></script><script type="text/javascript" async="" src="./Jun-Jie Huang_files/ga(2).js.download"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="./Tianrui_files/ga.js.download"></script><script type="text/javascript" async="" src="./Tianrui_files/ga.js(1).download"></script><script type="text/javascript" async="" src="./Tianrui_files/ga.js(2).download"></script><script type="text/javascript" async="" src="./Tianrui_files/ga.js(3).download"></script><script type="text/javascript" async="" src="./Tianrui_files/ga(1).js.download"></script><script type="text/javascript" async="" src="./Tianrui_files/ga(2).js.download"></script><script type="text/javascript">
     
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-22940424-1']);
@@ -46,12 +46,12 @@
 <!-- Home ================================================== -->
 <section id="home">
 	<div class="page-header">
-    	<h1>Jun-Jie Huang</h1>
+    	<h1>Tianrui Liu</h1>
     </div>
                 
     <div class="row-fluid">
     	<div class="span5">
-        	<img src="./Jun-Jie Huang_files/Picture1.jpg" alt="Jun-Jie Huang"> 
+        	<img src="./Tianrui_files/Picture1.jpg" alt="Tianrui Liu"> 
         </div>
 	<div class="span7">
           <address>
@@ -59,7 +59,7 @@
 		  109 Deya Rd., Kaifu District, Changsha City, Hunan Province, 410073, P.R.China<br>
           </address>
           <address>
-       			<strong> Email:</strong><img src="./Jun-Jie Huang_files/Email.png" width="192" height="18" alt="email">
+       			<strong> Email:</strong><img src="./Tianrui_files/Email.png" width="192" height="18" alt="email">
           </address>
         </div>
                     
@@ -95,25 +95,8 @@
 		<h1>What's New</h1>
     	</div>
 	<div class="accordion-heading"><strong>2021-09   </strong>	I start to work as a Lecturer at College of Computer Sicence, NUDT!</div>
-	<div class="accordion-heading"><strong>2021-08   </strong>	One paper on art invertigation has been accepted by TCI, congradulations Su!</div>
-	<div class="accordion-heading"><strong>2021-07   </strong>	Please find the <strong><a href="Demo/DeepAM_v1.0.zip"> Code</a></strong> of "Learning Deep Analysis Dictionaries for Image Super-Resolution". If you have any questions, please feel free to contact me!</div>	<div class="accordion-heading"><strong>2021-05   </strong>	Three papers have been accepted by EUSIPCO'21!</div>
-	<div class="accordion-heading"><strong>2020-11   </strong>	One paper on deep analysis dictionary learning has been accepted by TSP!</div>
-	<div class="accordion-heading"><strong>2020-11   </strong>	One paper on pedestrian detection has been accepted by TIP, congradulations Tianrui!</div>
-	<div class="accordion-heading"><strong>2020-10   </strong>	One paper on deep phase retrieval has been accepted by Signal Processing, congradulations Qi!</div>
-	<div class="accordion-heading"><strong>2020-08   </strong>	One paper on meta learning has been submitted to T-PAMI!</div>
-	<div class="accordion-heading"><strong>2020-02   </strong>	Please check our recent research on <strong>revealing hidden secrets of DaVinci's Virgin of the Rocks</strong> (<strong><a href="https://www.youtube.com/watch?v=oAmVLscVKqM&feature=youtu.be">Video </a></strong> and <strong><a href="https://www.imperial.ac.uk/news/195075/new-algorithm-helps-uncover-forgotten-figures/"> Article</a></strong>)!</div>
-	<div class="accordion-heading"><strong>2020-01   </strong>	Three papers have been accepted by ICASSP'20!</div>
-	<div class="accordion-heading"><strong>2019-11   </strong>	I have passed my Ph.D viva!</div>
-	<div class="accordion-heading"><strong>2019-06   </strong>	Please check the <strong><a href="https://youtu.be/dRcqHzKptT4"> talk</a></strong> given by Professor Dragotti about our Deep Dictionary Learning work at the Alan Turing Institue!</div>
-	<div class="accordion-heading"><strong>2019-05   </strong>	Two papers have been accepted by SPARS'19!</div>
-	<div class="accordion-heading"><strong>2019-02   </strong>	One paper has been accepted by ICASSP'19!</div>
-	<div class="accordion-heading"><strong>2018-07   </strong>	Please check the <strong><a href="https://youtu.be/C_s8sHjlx6E"> YouTube_Video</a></strong> for our paper on image completion!</div>
-	<div class="accordion-heading"><strong>2018-06   </strong>	One paper on image completion has been accepted by TIP!</div>
-	<div class="accordion-heading"><strong>2018-01   </strong>	Two papers have been accepted by ICASSP'18!</div>
-	<div class="accordion-heading"><strong>2017-09   </strong>	Attending Signal Processing meets Deep Learning (S3P-2017) summer school at Capri, Italy!</div>
-	<div class="accordion-heading"><strong>2017-05   </strong>	One paper has been accepted by CVPRW'17!</div>
-	<div class="accordion-heading"><strong>2017-04   </strong>	One paper has been accepted by SampTA'17!</div>
-	<div class="accordion-heading"><strong>2016-12   </strong>	One paper has been accepted by ICASSP'17 for oral presentation!</div>
+	<div class="accordion-heading"><strong>2020-11   </strong>	One paper on pedestrian detection has been accepted by TIP!</div>
+
 </section>
 
 <!-- Journal Papers ================================================== -->
@@ -124,44 +107,7 @@
 
 	<div class="row-fluid"> </div>
 
-<p></p>
-<div class="row-fluid">
-    <div class="span3">
-        <div class="thumbnail">
-            <img src="./Jun-Jie Huang_files/TCI_.png" alt="">
-        </div>
-    </div>
-    <div class="span8" style="text-align:justify">
-    	<div class="accordion" id="accordionSRHDT" style="text-align:justify">
-            <div class="accordion-heading">1. Su Yan, <strong>Jun-Jie Huang*</strong>, Nathan Daly, Catherine Higgitt and Pier Luigi Dragotti, "
-		    <strong>When de Prony Met Leonardo: An Automatic Algorithm for Chemical Element Extraction from Macro X-ray Fluorescence Data</strong>," 
-		    in IEEE Trans. on Computational Imaging, vol. 7, pp. 908-924, 2021. (*Corresponding author)
-		    <p> <strong> &nbsp;&nbsp; <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9511278"> PDF</a>
-			    <a href="BibTeX/TCI_2021.txt"> BibTeX</a></strong></p>
-            </div>
-         </div>
-    </div>
-</div>
 
-
-<p></p>
-<div class="row-fluid">
-    <div class="span3">
-        <div class="thumbnail">
-            <img src="./Jun-Jie Huang_files/DeepAM.png" alt="">
-        </div>
-    </div>
-    <div class="span8" style="text-align:justify">
-    	<div class="accordion" id="accordionSRHDT" style="text-align:justify">
-            <div class="accordion-heading">2. <strong>Jun-Jie Huang</strong>, and Pier Luigi Dragotti, 
-		    "<strong>Learning Deep Analysis Dictionaries for Image Super-Resolution</strong>," 
-		    in IEEE Trans. on Signal Processing, vol. 68, pp. 6633-6648, 2020. 
-		    <p> <strong> &nbsp;&nbsp; <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257106"> PDF</a>
-			    <a href="Demo/DeepAM_v1.0.zip">  Code</a><a href="BibTeX/TSP_DeepAM_2020.txt"> BibTeX</a></strong></p>
-            </div>
-         </div>
-    </div>
-</div>
 
 
 
@@ -169,12 +115,12 @@
 <div class="row-fluid">
     <div class="span3">
         <div class="thumbnail">
-            <img src="./Jun-Jie Huang_files/couple_overview.png" alt="">
+            <img src="./Tianrui_files/couple_overview.png" alt="">
         </div>
     </div>
     <div class="span8" style="text-align:justify">
     	<div class="accordion" id="accordionSRHDT" style="text-align:justify">
-            <div class="accordion-heading">3. Tianrui Liu, Wenhan Luo, Lin Ma, <strong>Jun-Jie Huang*</strong>, Tania Stathaki and Tianhong Dai, "<strong>Coupled Network for Robust Pedestrian Detection with Gated Multi-Layer Feature Extraction and Deformable Occlusion Handling</strong>," in IEEE Trans. on Image Processing, vol. 30, pp. 754-766, 2021. (*Corresponding author) <p> <strong> &nbsp;&nbsp; <span><a href="https://arxiv.org/pdf/1912.08661.pdf"> PDF</a><a href="BibTeX/SP_DeepPR_2020.txt"> BibTeX</a></strong></p>
+            <div class="accordion-heading">3. <strong>Tianrui Liu</strong>, Wenhan Luo, Lin Ma, Jun-Jie Huang*, Tania Stathaki and Tianhong Dai, "<strong>Coupled Network for Robust Pedestrian Detection with Gated Multi-Layer Feature Extraction and Deformable Occlusion Handling</strong>," in IEEE Trans. on Image Processing, vol. 30, pp. 754-766, 2021. (*Corresponding author) <p> <strong> &nbsp;&nbsp; <span><a href="https://arxiv.org/pdf/1912.08661.pdf"> PDF</a><a href="BibTeX/SP_DeepPR_2020.txt"> BibTeX</a></strong></p>
             </div>
          </div>
     </div>
@@ -182,67 +128,17 @@
 
 
 
-<p></p>
-<div class="row-fluid">
-    <div class="span3">
-        <div class="thumbnail">
-            <img src="./Jun-Jie Huang_files/DeepPR.png" alt="">
-        </div>
-    </div>
-    <div class="span8" style="text-align:justify">
-    	<div class="accordion" id="accordionSRHDT" style="text-align:justify">
-            <div class="accordion-heading">4. Qi Yu, <strong>Jun-Jie Huang*</strong>, Jubo Zhu, Wei Dai and Pier Luigi Dragotti, "<strong>Deep Phase Retrieval: Analyzing Over-Parameterization in Phase Retrieval</strong>," in Signal Processing, vol. 180, pp. 107866, 2021. (*Corresponding author) <p> <strong> &nbsp;&nbsp; <span><a href="https://authors.elsevier.com/a/1c1DtbZX51JJc"> PDF</a><a href="https://github.com/qy2116/DeepPR">  Code</a><a href="BibTeX/SP_DeepPR_2020.txt"> BibTeX</a></strong></p>
-            </div>
-         </div>
-    </div>
-</div>
-
-    
-    <p></p>
-	<div class="row-fluid">
-    	<div class="span3">
-        	<div class="thumbnail">
-            	<img src="./Jun-Jie Huang_files/PRINCE.png" alt="">
-            </div>
-        </div>
-        <div class="span8" style="text-align:justify">
-        	<div class="accordion" id="accordionSRHDT" style="text-align:justify">
-            	<div class="accordion-heading">5. <strong>Jun-Jie Huang</strong> and Pier Luigi Dragotti, 
-			"<strong>Photo Realistic Image Completion via Dense Correspondence</strong>," 
-			IEEE Trans. on Image Processing, vol 27, no. 11, pp. 5234-5247, November 2018. </div>
-			<p> <strong> &nbsp;&nbsp; <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8410011"> PDF</a>
-			<a href="https://youtu.be/C_s8sHjlx6E"> YouTube_Video</a><a href="Demo/PRINCE_v1.0.zip">  Code</a>
-			<a href="BibTeX/TIP_Completion_2018.txt"> BibTeX</a></strong></p>
-            </div>
-         </div>
-    </div>
-
-    <p></p>
-    <div class="row-fluid">
-    	<div class="span3">
-        	<div class="thumbnail">
-            	<img src="./Jun-Jie Huang_files/Picture2.png" alt="">
-            </div>
-        </div>
-        <div class="span8" style="text-align:justify">
-        	<div class="accordion" id="accordionSRHDT" style="text-align:justify">
-            	<div class="accordion-heading">6. <strong>Jun-Jie Huang</strong> and Wan-Chi Siu, "<strong>Learning Hierarchical Decision Trees for Single Image Super-Resolution</strong>," IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 5, pp. 937-950, 2017. <em>(State-of-the-art image super-resolution results!)</em><br><p> <strong> &nbsp; <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7368907"> <span>PDF</span>
-                </a><a href="Demo/SRHDT.zip">  Executable_Code</a></strong><strong><a href="Papers/15_TCSVT_SRHDT.pdf"> </a><a href="Demo/SRHDT_Results.xlsx"> Evaluation_Results</a><a href="BibTeX/TCSVT_2016.txt"> BibTeX</a></strong></p>
-                </div>
-            </div>
-         </div>
-    </div>
-                    
+         
     <p></p>
 	<div class="row-fluid">
 		<div class="span3">
         	<div class="thumbnail">
-            	<img src="./Jun-Jie Huang_files/FIRF.png" alt="">
+            	<img src="./Tianrui_files/FIRF.png" alt="">
             </div>
         </div>
         <div class="span8" style="text-align:justify">
         	<div class="accordion" id="accordionFIRF">
-            	<div class="accordion-heading">7. <strong>Jun-Jie Huang</strong>, Wan-Chi Siu and Tian-Rui Liu, "<strong>Fast Image Interpolation via Random Forests</strong>," IEEE Transactions on Image Processing, vol. 24, no. 10, pp. 3232-3245, 2015. <em>(State-of-the-art image interpolation results!)</em><br><p> <strong> &nbsp;&nbsp; <span><a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7117405">PDF</a>     <a href="http://www.eie.polyu.edu.hk/~wcsiu/softmodule/10/fast_image_interpolation.htm">Project_Page</a></span></a><a href="BibTeX/TIP_2015.txt"> BibTeX</a></strong></p>
+            	<div class="accordion-heading">7. Jun-Jie Huang, Wan-Chi Siu and <strong>Tian-Rui Liu</strong>, "<strong>Fast Image Interpolation via Random Forests</strong>," IEEE Transactions on Image Processing, vol. 24, no. 10, pp. 3232-3245, 2015. <em>(State-of-the-art image interpolation results!)</em><br><p> <strong> &nbsp;&nbsp; <span><a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7117405">PDF</a>     <a href="http://www.eie.polyu.edu.hk/~wcsiu/softmodule/10/fast_image_interpolation.htm">Project_Page</a></span></a><a href="BibTeX/TIP_2015.txt"> BibTeX</a></strong></p>
                 </div>
             </div>
        </div>
@@ -457,22 +353,22 @@ font-size: 8px; color: #686A6F; text-decoration: none ;">
         <!-- Le javascript
         ================================================== -->
         <!-- Placed at the end of the document so the pages load faster -->
-        <script type="text/javascript" src="./Jun-Jie Huang_files/widgets.js.download"></script>
-        <script src="./Jun-Jie Huang_files/jquery.js.download"></script>
-        <script src="./Jun-Jie Huang_files/prettify.js.download"></script>
-        <script src="./Jun-Jie Huang_files/bootstrap-transition.js.download"></script>
-        <script src="./Jun-Jie Huang_files/bootstrap-alert.js.download"></script>
-        <script src="./Jun-Jie Huang_files/bootstrap-modal.js.download"></script>
+        <script type="text/javascript" src="./Tianrui_files/widgets.js.download"></script>
+        <script src="./Tianrui_files/jquery.js.download"></script>
+        <script src="./Tianrui_files/prettify.js.download"></script>
+        <script src="./Tianrui_files/bootstrap-transition.js.download"></script>
+        <script src="./Tianrui_files/bootstrap-alert.js.download"></script>
+        <script src="./Tianrui_files/bootstrap-modal.js.download"></script>
         <!--<script src="./js/bootstrap-dropdown.js"></script>-->
         <!--<script src="./js/bootstrap-scrollspy.js"></script>-->
-        <script src="./Jun-Jie Huang_files/bootstrap-tab.js.download"></script>
-        <script src="./Jun-Jie Huang_files/bootstrap-tooltip.js.download"></script>
+        <script src="./Tianrui_files/bootstrap-tab.js.download"></script>
+        <script src="./Tianrui_files/bootstrap-tooltip.js.download"></script>
         <!--<script src="./js/bootstrap-popover.js"></script>-->
-        <script src="./Jun-Jie Huang_files/bootstrap-button.js.download"></script>
-        <script src="./Jun-Jie Huang_files/bootstrap-collapse.js.download"></script>
+        <script src="./Tianrui_files/bootstrap-button.js.download"></script>
+        <script src="./Tianrui_files/bootstrap-collapse.js.download"></script>
         <!--<script src="./js/bootstrap-carousel.js"></script>-->
         <!--<script src="./js/bootstrap-typeahead.js"></script>-->
-        <script src="./Jun-Jie Huang_files/bootstrap-affix.js.download"></script>
-        <script src="./Jun-Jie Huang_files/application.js.download"></script>
+        <script src="./Tianrui_files/bootstrap-affix.js.download"></script>
+        <script src="./Tianrui_files/application.js.download"></script>
          
     </div></body></html>
